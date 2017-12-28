@@ -13,7 +13,6 @@ The CLI helper for [AdroStatic](https://github.com/adrorocker/adrostatic)
 [![Coverage Status][Master covarage image]][Master covarage]
 [![Latest Stable Version][Stable version image]][Stable version]
 [![License][License image]][License]
-[![StyleCI][StyleCI image]][StyleCI]
 
 -----------------------------------
 
