@@ -1,0 +1,28 @@
+{
+    "name": "adrorocker/adrostatic-cli",
+    "description": "The AdroStatic Cli helper",
+    "type": "library",
+    "require": {
+        "adrorocker/adrostatic": "^0.1.0",
+        "adrorocker/adrostatic-skeleton": "^0.1.0",
+        "adrorocker/adrostatic-themes": "^0.1.0",
+        "league/flysystem": "^1.0",
+        "symfony/console": "^4.0",
+        "symfony/process": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Adro Rocker",
+            "email": "me@adro.rocks"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AdroStatic\\Cli\\": ["src/"]
+        },
+        "files": [
+            "index.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}
